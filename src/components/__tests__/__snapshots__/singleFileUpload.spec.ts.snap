@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`singleUpload > should file mime type 1`] = `"<input data-v-f92cba9a="" class="hidden" type="file">"`;
+
+exports[`singleUploadFile > should render File input 1`] = `"<input data-v-f92cba9a="" class="hidden" type="file">"`;
+
+exports[`singleleUpload > If maxSize is 10, no error message should be displayed when a file is loaded with less than 10mb 1`] = `"<input data-v-f92cba9a="" class="hidden" type="file">"`;
+
+exports[`singleleUpload > should file mime type 1`] = `"<input data-v-f92cba9a="" class="hidden" type="file">"`;

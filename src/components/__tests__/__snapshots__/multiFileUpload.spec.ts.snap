@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`multipleUpload > should render File input 1`] = `"<input data-v-d937d6af="" class="hidden" type="file" multiple="">"`;
