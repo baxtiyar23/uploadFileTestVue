@@ -6,7 +6,7 @@ import MultiFileUpload from '@/components/multiFileUpload.vue'
 <template>
   <div class="new-app">
     <SingleFileUpload max-size="10 * 1024 * 1024" file-type="" />
-    <MultiFileUpload max-element-count="" max-size="" is-multiple="" />
+    <MultiFileUpload max-element-count="5" max-size="10 * 10 * 1024" is-multiple="true" />
   </div>
 </template>
 
